@@ -1,4 +1,4 @@
-# Django Girls — Kadijah Jalloh
+# Django Girls — Karimatu Jalloh
 BBIT, Semester 5, Web Programming assignment. Academic demonstration; not an official Django Girls event service.
 
 ## Run in XAMPP
